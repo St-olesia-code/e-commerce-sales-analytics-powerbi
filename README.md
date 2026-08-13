@@ -4,6 +4,9 @@ An end-to-end e-commerce analytics project built in Power BI to analyze sales pe
 
 The project covers the full analytics workflow — from raw ODS data preparation and data modeling to DAX measures, interactive dashboards, and business insights.
 
+## Dashboard Preview
+
+![Executive Performance Overview](screenshots/1%20Executive%20Performance%20Overview.png)
 ---
 
 ## Project Overview
